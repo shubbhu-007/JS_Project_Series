@@ -1,0 +1,1 @@
+The folder contains JavaScript related Projects from Basic to Advanced
